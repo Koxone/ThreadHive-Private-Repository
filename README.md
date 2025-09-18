@@ -20,9 +20,9 @@ ThreadHive is a **community-driven discussion platform** built with:
 
 ---
 
-## 🎥 Demo Video
+## 🎥 Demo Preview
 
-<video src="assets/demo.mp4" width="600" controls></video>
+![Demo](assets/demo.gif)
 
 ---
 
