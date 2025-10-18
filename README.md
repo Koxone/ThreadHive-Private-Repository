@@ -686,6 +686,7 @@ This project is proprietary and not open source. Unauthorized copying, modificat
 
 - **GitHub**: [@Koxone](https://github.com/Koxone)
 - **LinkedIn**: [Carlos de Leon](https://www.linkedin.com/in/carlos-d-leon/)
+- **Email**: [admin@koxland.net](mailto:admin@koxland.net)
 
 ---
 
